@@ -1,2 +1,3 @@
 # test-repo-23
-test repository for workshop
+This is a description of my project. It's a very cool project.
+
